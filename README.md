@@ -20,9 +20,6 @@ A fun mini-game built in Kotlin using Android Studio where your cat avoids falli
 - Tap left or right buttons to move
 - Avoid the vacuum robots or lose a life!
 
-## 📸 Demo
-> _Attach gameplay video or screen recording here for your teacher._
-
 ## 🚀 How to Run
 1. Clone this repo
 2. Open in Android Studio
